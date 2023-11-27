@@ -1,10 +1,6 @@
+<img src="https://play-lh.googleusercontent.com/6MQiQh7GFBG0TnmNe6fVYaA1h_1XFT4WF0JjBas7SN8HZjhaobQgK0BkWbm7Bc8YuQQ=w3840-h2160-rw" width="1500" height="300" alt="Hello world">
 # Hey there :wave:
-
-<img src="https://play-lh.googleusercontent.com/6MQiQh7GFBG0TnmNe6fVYaA1h_1XFT4WF0JjBas7SN8HZjhaobQgK0BkWbm7Bc8YuQQ=w3840-h2160-rw"  height="300" alt="Hello world">
-
 <p align="center"> 
-
-
 ## About me
 <!--
 **bilalelsayed97/bilalelsayed97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
