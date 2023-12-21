@@ -3,7 +3,7 @@
   <img src="https://play-lh.googleusercontent.com/6MQiQh7GFBG0TnmNe6fVYaA1h_1XFT4WF0JjBas7SN8HZjhaobQgK0BkWbm7Bc8YuQQ=w3840-h2160-rw" width="356" height="200" alt="Hello">
 </p>
 
-<h1 align="center">Hi 👋, I'm I'm a self-taught passionate mobile developer.</h1>
+<h1> I'm I'm a self-taught passionate mobile developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalelsayed97&label=Profile%20views&color=0e75b6&style=flat" alt="bilalelsayed97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilalelsayed97" alt="bilalelsayed97" /></a> </p>
