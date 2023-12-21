@@ -1,6 +1,6 @@
 <p align="center">
   <img src="daftpunktocat-guy.gif" alt="wlc" height="200"/>
-  <img src="https://play-lh.googleusercontent.com/6MQiQh7GFBG0TnmNe6fVYaA1h_1XFT4WF0JjBas7SN8HZjhaobQgK0BkWbm7Bc8YuQQ=w3840-h2160-rw" width="356" height="200" alt="Hello">
+  <img src="headerr.png" width="356" height="200" alt="Hello">
 </p>
 
 <h1> I'm I'm a self-taught passionate mobile developer.</h1>
