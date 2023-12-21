@@ -1,10 +1,7 @@
-<img src="https://play-lh.googleusercontent.com/6MQiQh7GFBG0TnmNe6fVYaA1h_1XFT4WF0JjBas7SN8HZjhaobQgK0BkWbm7Bc8YuQQ=w3840-h2160-rw" width="1000" height="300" alt="Hello world">
-# Hey there :wave:
-<p align="center"> 
-<br />
+<img src="https://play-lh.googleusercontent.com/6MQiQh7GFBG0TnmNe6fVYaA1h_1XFT4WF0JjBas7SN8HZjhaobQgK0BkWbm7Bc8YuQQ=w3840-h2160-rw" width="700" height="300" alt="Hello">
 
-I'm a self-taught passionate mobile developer from Egypt 🇪🇬
-**About me**
+
+
 
 <h1 align="center">Hi 👋, I'm I'm a self-taught passionate mobile developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalelsayed97&label=Profile%20views&color=0e75b6&style=flat" alt="bilalelsayed97" /> </p>
@@ -37,19 +34,4 @@ I'm a self-taught passionate mobile developer from Egypt 🇪🇬
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalelsayed97&" alt="bilalelsayed97" /></p>
 
-
-<!--
-**bilalelsayed97/bilalelsayed97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
