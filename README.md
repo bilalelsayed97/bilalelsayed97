@@ -3,7 +3,7 @@
   <img src="daftpunktocat-guy.gif" alt="wlc" height="200"/>
   <img src="headerr.png" width="356" height="200" alt="Hello">
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=607095&center=true&random=false&width=435&lines=Hi+There%2C+Im+Bilal+Elsayed;Welcome+to+my+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FF00&center=true&random=true&width=435&lines=Hi+There%2C+Im+Bilal+Elsayed;Welcome+to+my+profile+%F0%9F%98%8A" alt="Typing SVG" /></a>
 <h1> I'm I'm a self-taught passionate mobile developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalelsayed97&label=Profile%20views&color=0e75b6&style=flat" alt="bilalelsayed97" /> </p>
 
