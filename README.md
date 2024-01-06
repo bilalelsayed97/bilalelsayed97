@@ -9,9 +9,10 @@
 <h1>About</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalelsayed97&label=Profile%20views&color=0e75b6&style=flat" alt="bilalelsayed97" /> </p>
 
-<div align="center">
-  <img src="daftpunktocat-guy.gif" alt="wlc" height="200"/>
-  <p>- 🌱 I’m currently learning **IOS , Android**
+<div>
+  <img src="daftpunktocat-guy.gif" alt="wlc" width="200"/>
+  <p>
+- 🌱 I’m currently learning **IOS , Android**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bilalelsayed97/](https://www.linkedin.com/in/bilalelsayed97/)
 
