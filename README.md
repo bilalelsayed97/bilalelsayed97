@@ -7,8 +7,6 @@
 <h1> I'm I'm a self-taught passionate mobile developer.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalelsayed97&label=Profile%20views&color=0e75b6&style=flat" alt="bilalelsayed97" /> </p>
 
-- 🔭 I’m currently working on **Flutter Apps.**
-
 - 🌱 I’m currently learning **IOS , Android**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bilalelsayed97/](https://www.linkedin.com/in/bilalelsayed97/)
