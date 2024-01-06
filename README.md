@@ -10,16 +10,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalelsayed97&label=Profile%20views&color=0e75b6&style=flat" alt="bilalelsayed97" /> </p>
 
 <div>
-  <img src="daftpunktocat-guy.gif" alt="wlc" width="200"/>
-  <p>
-- 🌱 I’m currently learning **IOS , Android**
+  <img src="daftpunktocat-guy.gif" alt="wlc" height="200"/>
+  <div style="margin-left: 20px;">
+    <p>- 🌱 I’m currently learning **IOS , Android**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/bilalelsayed97/](https://www.linkedin.com/in/bilalelsayed97/)
 
 - 💬 Ask me about **Flutter, Dart, Mobile Application Development**
 
-- 📫 How to reach me **bilalelsayedjr@gmail.com**
-</p>
+- 📫 How to reach me **bilalelsayedjr@gmail.com**</p>
+  </div>
 </div>
 
 - 🌱 I’m currently learning **IOS , Android**
