@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](Bottom_up.svg)
 <p align="center">
   <img src="daftpunktocat-guy.gif" alt="wlc" height="200"/>
   <img src="headerr.png" width="356" height="200" alt="Hello">
