@@ -1,4 +1,3 @@
-<img src="Bottom_up.svg">
 <p>
   <img src="headerr.png" width="712" height="400" alt="Hello">
 </p>
@@ -11,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bilalelsayed97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalelsayed97" height="30" width="40" /></a>
-<a href="https://wa.me/+966506835194" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/2062095_application_chat_communication_logo_whatsapp_icon.svg/2048px-2062095_application_chat_communication_logo_whatsapp_icon.svg.png" alt="bilalelsayed97" height="30" width="30" /></a>
 </p>
 
 
